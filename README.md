@@ -8,5 +8,5 @@
 <a href="https://www.figma.com/file/kz9njeScyFchCOZSkeHFJI/Carmen-Camacho?type=design&node-id=0-1&t=9d0NAw3MFqrFQj69-0">Link de Figma</a>
 
 <h2>Punto 2: HTML</h2>
-<img src="./public/images/htmel.png"
+<img src="./public/images/html.png"
 alt="html">
