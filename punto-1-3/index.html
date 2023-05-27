@@ -5,12 +5,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>UD Atenea Cursos</title>
+    <link href='https://fonts.googleapis.com/css?family=Jost' rel='stylesheet'>
+    <link rel="stylesheet" href="./styles/styles.css">
 </head>
 
 <body>
     <header>
-        <div>
+        <div class="header_navigation">
             <img src="./public/images/header-logo.png" alt="header-logo">
             <nav>
                 <ul>
@@ -21,11 +23,17 @@
                 </ul>
             </nav>
         </div>
-        <div>
-            <img src="./public/images/header-world.png" alt="world">
-            <spam>Español</spam>
+        <div class="header_settings">
+            <div>
+                <img src="./public/images/header-world.png" alt="world">
+                <spam>Español</spam>
+            </div>
+
+            <div>
+                <button>Ingresar</button>
+            </div>
         </div>
-        <button>Ingresar</button>
+
     </header>
     <main>
         <section id="banner">
@@ -33,15 +41,14 @@
                 <div>
                     <h1>Aprovecha la era digital,
                         toma clases en línea</h1>
-                    <p>Toma los cursos más importantes de
-                        tecnología con clases en línea,
-                        donde podrás tener acceso a contenido
-                        actualizado desde la comodidad de tu casa y a tu ritmo
+                    <p class="parrafo_uno">
+                        Toma los cursos más importantes de tecnología con clases en línea,
+                        donde podrás tener acceso a contenido actualizado desde la comodidad de tu casa y a tu ritmo
                     </p>
                 </div>
                 <div>
-                    <button>Saber Más</button>
-                    <button>Planes</button>
+                    <button class="button__orange">Saber Más</button>
+                    <button class="button__white">Planes</button>
                 </div>
             </div>
             <img src="./public/images/banner-online.png" alt="onLine-education">
@@ -80,11 +87,12 @@
                         para que tu aprendizaje</h2>
                     <h2>sea efectivo</h2>
                     <p>
-                        Las herramientas digitales son nuestras aliadas
-                        y aprovechamos cada una de estas
-                        para brindarte la mejor experiencia en línea
+                        Las herramientas digitales son
+                        nuestras aliadas y aprovechamos
+                        cada una de estas para brindarte
+                        la mejor experiencia en línea
                     </p>
-                    <button>Saber Más</button>
+                    <button class="button__orange" >Saber Más</button>
                 </div>
             </div>
             <div>
@@ -97,7 +105,7 @@
                         estudiantes sea alcanzada
                         a través de nuestros cursos
                     </p>
-                    <button>Saber Más</button>
+                    <button class="button__orange">Saber Más</button>
                 </div>
                 <img src="./public/images/section2-goals.png" alt="goals" width="500px" heigt="350px">
             </div>
@@ -110,8 +118,8 @@
         </di>
         <div>
             <p>
-                Únete a nuestra comunidad para
-                recibir información actualizada de los cursos
+                Únete a nuestra comunidad para recibir
+                información actualizada de los cursos
                 y conferencia que ofrecemos
             </p>
             <form method="post">
