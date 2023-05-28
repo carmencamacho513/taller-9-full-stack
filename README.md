@@ -7,7 +7,6 @@
 
 <a href="https://www.figma.com/file/kz9njeScyFchCOZSkeHFJI/Carmen-Camacho?type=design&node-id=0-1&t=9d0NAw3MFqrFQj69-0">Link de Figma</a>
 
-<br>
 <a href="https://carmencamacho513.github.io/taller-9-full-stack/">Link página web</a>
 
 <h2>Punto 2: HTML</h2>
