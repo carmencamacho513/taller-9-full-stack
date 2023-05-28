@@ -16,6 +16,9 @@ alt="html">
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/css.png" alt="css">
 
+<h2>Punto 4: Fuente HTML y CSS</h2>
+<img src="./public/images/Punto-4.png" alt="Punto-4">
+
 
 
 
