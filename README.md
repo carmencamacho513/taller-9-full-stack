@@ -28,7 +28,7 @@ alt="html">
 <h2>Punto 7-8: Navegador HTML y CSS</h2>
 <img src="./public/images/Punto-7-8.png" alt="Punto-7-8">
 
-<h2>Punto 7-8: Tabla HTML y CSS</h2>
+<h2>Punto 9: Tabla HTML y CSS</h2>
 <img src="./public/images/Punto-9.png" alt="Punto-9">
 
 
