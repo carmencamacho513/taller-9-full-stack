@@ -22,6 +22,9 @@ alt="html">
 <h2>Punto 5: Párrafo HTML y CSS</h2>
 <img src="./public/images/Punto-5.png" alt="Punto-5">
 
+<h2>Punto 6: Enlaces HTML y CSS</h2>
+<img src="./public/images/Punto-6.png" alt="Punto-6">
+
 
 
 
