@@ -19,6 +19,9 @@ alt="html">
 <h2>Punto 4: Fuente HTML y CSS</h2>
 <img src="./public/images/Punto-4.png" alt="Punto-4">
 
+<h2>Punto 5: Párrafo HTML y CSS</h2>
+<img src="./public/images/Punto-5.png" alt="Punto-5">
+
 
 
 

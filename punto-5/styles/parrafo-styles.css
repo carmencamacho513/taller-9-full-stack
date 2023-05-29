@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;    
+}
+
+.color_green {
+    color: #61c2a1;
+}
+
+.color_red {
+    color: #ee1414;
+}
+
+.bordes_black {
+    border-top: 2px solid #080808;
+}
+
+.big_black {
+    font-size: 70px;
+}
+
+.color_blue {
+    color: #0f0fee;
+}
+
+.bordes_red {
+    color: #ee1414;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
