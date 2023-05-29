@@ -25,6 +25,9 @@ alt="html">
 <h2>Punto 6: Enlaces HTML y CSS</h2>
 <img src="./public/images/Punto-6.png" alt="Punto-6">
 
+<h2>Punto 7-8: Navegador HTML y CSS</h2>
+<img src="./public/images/Punto-7-8.png" alt="Punto-7-8">
+
 
 
 
