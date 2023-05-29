@@ -1,18 +1,19 @@
 .navigation_seven nav ul {
+   font-family: 'Times New Roman', Times, serif;
    font-weight: bold;
    color: #fff;
    display: flex;
    gap: 30px;
-   margin: 100px 400px 100px;
+   margin: 100px 350px 100px;
    padding: 25px;
    list-style: none;
-   background-color: #ecb4e0;
+   background-color: #d6afdc;
    border-radius: 0px;
 }
 
 .color_blue {
    padding: 12px;
-   background-color: #5252f5;
+   background-color: #0000ff;
    border-radius: 0px;
 }
 

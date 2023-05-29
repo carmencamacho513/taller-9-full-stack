@@ -6,15 +6,15 @@ body {
 }
 
 .color_green {
-    color: #61c2a1;
+    color: #3B8000;
 }
 
 .color_red {
-    color: #ee1414;
+    color: #ff0000;
 }
 
 .bordes_black {
-    border-top: 2px solid #080808;
+    border-top: 2px solid #000000;
 }
 
 .big_black {
@@ -22,11 +22,11 @@ body {
 }
 
 .color_blue {
-    color: #0f0fee;
+    color: #0000ff;
 }
 
 .bordes_red {
-    color: #ee1414;
+    color: #ff0000;
     font-weight: bold;
 }
 

@@ -1,0 +1,40 @@
+table {
+   margin: 100px 300px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 16px;
+   border-top: 1px dotted #000000;
+   border-bottom: 1px dashed #ff0000;
+   border-left: 1px dotted #000000;
+   border-right: 1px dotted #000000;
+   background-color: #ffff00;
+   
+}
+ 
+.color_red {
+   color: #ff0000;
+   border-bottom: dotted;
+   border-width: 1px;
+   border-color: #000000;
+}
+
+.tamaño_red {
+   font-size: 25px;
+}
+
+.borde_one {
+   border-bottom: dotted;
+   border-right: dotted;
+   border-width: 1px;
+   border-color: #000000;
+}
+
+.borde_two {
+   border-bottom: dotted;
+   border-width: 1px;
+   border-color: #000000;
+}
+
+
+
+
+
